@@ -96,10 +96,11 @@ h1 {
   font-size: 50px;
 }
 
-.graphql {
-  width: 50px;
+.learn-more {
+  background-color: #60ff00;
+  margin: 0 auto;
+  padding-top: 20px;
 }
-
 .index-contact {
   margin: 25px;
   max-width: 200px;
