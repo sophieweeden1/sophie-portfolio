@@ -84,3 +84,7 @@ h3 {
     transition: 1s ease;
     }
   
+
+    .about-memoji{
+      max-width: 90%;
+    }
