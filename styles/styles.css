@@ -65,15 +65,14 @@ h3 {
   border-radius: 25px;
 }
 
-.screenshot {
-  max-width: 90%;
-}
 
-.grow img{
+
+.screenshot img{
+  max-width: 90%
   transition: 1s ease;
   }
   
-  .grow img:hover{
+  .screenshot img:hover{
   -webkit-transform: scale(1.2);
   -ms-transform: scale(1.2);
   transform: scale(1.2);
