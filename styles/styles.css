@@ -94,6 +94,10 @@ h3 {
     .about-text{
       text-align: left;
     }
+    
+    certificates{
+      margin-bottom: 50px;
+    }
 
     .certificate {
       max-width: 80%;
