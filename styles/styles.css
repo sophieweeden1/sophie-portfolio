@@ -90,3 +90,7 @@ h3 {
     .about-memoji{
       max-width: 90%;
     }
+
+    .about-text{
+      text-align: left;
+    }
