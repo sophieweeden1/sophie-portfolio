@@ -97,6 +97,7 @@ h3 {
 
     .cv-button{
       margin: 0 auto;
+      margin-bottom: 50px;
       max-width: 60%;
       border-radius: 50px;
       border: none;
