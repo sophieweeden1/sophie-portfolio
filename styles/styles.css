@@ -97,7 +97,7 @@ h3 {
       text-align: left;
     }
     
-    certificates{
+    .certificates{
       margin-bottom: 50px;
     }
 
@@ -113,4 +113,8 @@ h3 {
       border: none;
       background-color: #9fc088;
     
+    }
+
+    .contact-memoji{
+      max-width: 100px;
     }
