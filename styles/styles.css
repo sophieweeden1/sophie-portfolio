@@ -98,5 +98,7 @@ h3 {
     .cv-button{
       max-width: 60%;
       border-radius: 50px;
-      border-style: none;
+      border: none;
+      background-color: #9fc088;
+    
     }
