@@ -95,6 +95,10 @@ h3 {
       text-align: left;
     }
 
+    .certificate {
+      max-width: 80%;
+    }
+
     .cv-button{
       margin: 0 auto;
       margin-bottom: 50px;
