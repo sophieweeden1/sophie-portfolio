@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Neue Montreal';
   font-weight: normal;
-  src: url("OTF/PPNeueMontreal-Medium.otf") format("opentype");
+  src: url("/PPNeueMontreal-Medium.otf") format("opentype");
 }
 
 body {
@@ -43,6 +43,10 @@ body {
   
  }
 
+ nav {
+  font-size: 30px;
+ }
+
 h1 {
 
   font-size: 80px;
@@ -66,8 +70,8 @@ h3 {
   padding-bottom: 25px;
 }
 
-.work-title{
-  font-weight: 400
+.projects {
+  padding-left: 6rem;
 }
 
 .memoji {
@@ -79,11 +83,13 @@ h3 {
   padding-top: 50px;
   padding-left: 6rem;
   padding-right: 5rem;
+  
 }
 
-.work-font{
-  font-weight: 500;
+#work{
+  font-weight: bold;
 }
+
 
 
 .index-contact {
