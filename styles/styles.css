@@ -73,6 +73,8 @@ a{
   color: #2D2A36;
 }
 
+
+
 .projects {
   padding-left: 6rem;
 }
@@ -140,17 +142,14 @@ a{
       max-width: 80%;
     }
 
-    .contact-memoji{
-      max-width: 20%;
+    .see-more{
+      margin-left: 6rem;
     }
 
-    .contact{
-      padding-left: 6rem;
-    }
 
 
     .contact-list{
       text-align: center;
       list-style: none;
-      font-size: 2rem;
+      font-size: 1.3rem;
     }
