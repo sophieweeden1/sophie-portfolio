@@ -129,10 +129,6 @@ a{
     .about-memoji{
       max-width: 90%;
     }
-
-    .about-text{
-      text-align: left;
-    }
     
     .certificates{
       margin-bottom: 50px;
@@ -147,5 +143,27 @@ a{
     .contact-list{
       text-align: center;
       list-style: none;
-      font-size: 1.3rem;
+      font-size: 1.6rem;
+    }
+
+    .about-text{
+      display: flex;
+      flex-direction: column;
+      padding-left: 250px;
+      padding-right: 250px;
+      margin-top: 50px;
+
+    }
+
+    .profile-img{
+      max-width: 30%;
+      margin: 0 auto;
+      border-radius: 50%;
+      margin-bottom: 50px;
+    }
+
+    @media only screen and (max-width: 800px) {
+      .about-text {
+        padding: 10px;
+      }
     }
