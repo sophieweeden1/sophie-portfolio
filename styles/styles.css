@@ -127,3 +127,7 @@ h3 {
     .contact-memoji{
       max-width: 20%;
     }
+
+    #work{
+      font-weight: 500;
+    }
