@@ -139,4 +139,13 @@ h3 {
       max-width: 20%;
     }
 
-    
+    .contact{
+      padding-left: 6rem;
+    }
+
+
+    .contact-list{
+      text-align: center;
+      list-style: none;
+      font-size: 2rem;
+    }
