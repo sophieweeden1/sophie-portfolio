@@ -68,6 +68,11 @@ h3 {
   padding-bottom: 25px;
 }
 
+a{
+  text-decoration: none;
+  color: #2D2A36;
+}
+
 .projects {
   padding-left: 6rem;
 }
